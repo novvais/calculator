@@ -1,6 +1,9 @@
 # Calculator
 
 ## Como Usar 
+1. Clone o repositorio
+   *Clone este repositório para o seu computador usando o seguinte comando:
+   git clone git@github.com:novvais/calculator.git
 
 ### Demosntracao em Video
 
