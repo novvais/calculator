@@ -4,4 +4,4 @@
 
 ### Demosntracao em Video
 
-![Demonstracao](https://github.com/novvais/calculator/assets/110359905/0b7ca899-925c-45b5-8296-50c073f825ec)
+https://github.com/novvais/calculator/assets/110359905/0cd0508f-42ec-4b34-b3bf-8836e87db350
