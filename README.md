@@ -6,7 +6,7 @@
     * Clone este repositório para o seu computador usando o seguinte comando:
 
         ```bash
-        $ git clone https://github.com/seu-usuario/calculadora-simples.git
+        $ git clone git@github.com:novvais/calculator.git
 
 2. Encontre o Diretorio
 
@@ -29,6 +29,7 @@
     * Clique no botão "=" para obter o resultado d operação.
     * Use o botão "<" para apagar somente um item de cada vez.
     * Use o botão "C" para limpar e começar uma nova operação.
+
 ### Demosntracao em Video
 
 https://github.com/novvais/calculator/assets/110359905/0cd0508f-42ec-4b34-b3bf-8836e87db350
