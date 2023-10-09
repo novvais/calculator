@@ -34,6 +34,7 @@
 
 https://github.com/novvais/calculator/assets/110359905/0cd0508f-42ec-4b34-b3bf-8836e87db350
 
+### Referencia: https://www.youtube.com/watch?v=_npnL4Gyg_o
 5. Instruções
 
     * Siga as instruções na tela para inserir os números e realizar as operações desejadas.
